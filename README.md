@@ -10,7 +10,7 @@ Passos para instalação do projeto:
 
 3 - Instale o Composer(https://getcomposer.org/Composer-Setup.exe) Para executar alguns comandos para instalação do Laravel.
 
-4 - Clonar o repositório do github utilizando o comando `git clone https://github.com/Nicoxdzin/LaravelVue.git`
+4 - Clonar o repositório do github utilizando o comando `git clone https://github.com/Nicoxdzin/LaraVue.git`
 
 5- Instale as dependências de back-end utilizando o comando `composer install` no terminal
 
