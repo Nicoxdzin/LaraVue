@@ -22,6 +22,7 @@ class ViaCep
     {
         $this->request = Http::asJson()
             ->acceptJson()
+            ->withoutVerifying()
             ->baseUrl($this->config['base_url']);
     }
 }
