@@ -12,7 +12,7 @@ Passos para instalação do projeto:
 
 4 - Clonar o repositório do github utilizando o comando `git clone https://github.com/Nicoxdzin/LaraVue.git`
 
-5- Instale as dependências de back-end utilizando o comando `composer install` no terminal
+5- Instale as dependências de back-end utilizando o comando `composer install` no terminal(Em caso de erro, utilize o comando composer install --ignore-platform-req=ext-fileinfo)
 
 6- Instale as dependênciais de front-end utilizando o comando `npm i && npm run dev` no terminal
 
